@@ -1,0 +1,8 @@
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\obj\Debug\InterfaceVsAbstract.csproj.AssemblyReference.cache
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\obj\Debug\InterfaceVsAbstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\obj\Debug\InterfaceVsAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\bin\Debug\InterfaceVsAbstract.exe.config
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\bin\Debug\InterfaceVsAbstract.exe
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\bin\Debug\InterfaceVsAbstract.pdb
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\obj\Debug\InterfaceVsAbstract.exe
+C:\Users\Rizwan computers\source\repos\InterfaceVsAbstract\obj\Debug\InterfaceVsAbstract.pdb
